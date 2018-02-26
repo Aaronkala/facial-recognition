@@ -1,0 +1,16 @@
+{
+  "name": "faces",
+  "version": "1.0.0",
+  "description": "recognize faces in photos",
+  "main": "index.js",
+  "dependencies": {
+    "opencv4nodejs": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Aaron Hakala",
+  "license": "ISC"
+}
